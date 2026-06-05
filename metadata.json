@@ -1,0 +1,6 @@
+{
+  "name": "PVS Transporte Executivo",
+  "description": "Empresa de transporte premium na região metropolitana de Belo Horizonte, MG, especializada em viagens executivas, transfers de aeroporto e eventos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
