@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import { Vehicle, VehicleCategory } from '../types';
 import { Users, Briefcase, Check, Award, ArrowRight } from 'lucide-react';
 
+import chauffeurImage from '../assets/images/chauffeur_opening_door_1780451808540.png';
+import premiumSuvImage from '../assets/images/premium_suv_cross_1781014947078.png';
+
 interface FleetProps {
   onSelectCategory: (category: VehicleCategory) => void;
 }
@@ -18,7 +21,7 @@ export default function Fleet({ onSelectCategory }: FleetProps) {
       luggage: 3,
       description: 'Veículos executivos modernos, com alto grau de discrição e excelente isolamento acústico. Banco de couro, ar-condicionado independente e kit amenidades.',
       features: ['Ar-Condicionado Dual-Zone', 'Bancos em Couro Nobre', 'Kit Amenidades Premium', 'Água Mineral & Balas', 'Carregadores Multi-Cabos'],
-      image: '/src/assets/images/chauffeur_opening_door_1780451808540.png'
+      image: chauffeurImage
     },
     {
       id: 'premium_suv',
@@ -28,7 +31,7 @@ export default function Fleet({ onSelectCategory }: FleetProps) {
       luggage: 4,
       description: 'Veículo robusto, espaçoso e com posição de dirigir elevada. Ideal para viagens executivas em rodovias, estradas de terra ou passageiros com volume extra de baggage.',
       features: ['Tração 4x4 Ativa', 'Porta-Malas Gigante', 'Suspensão Amortecida VIP', 'Internet Wi-Fi integrada', 'Segurança Sobreelevada'],
-      image: '/src/assets/images/premium_suv_cross_1781014947078.png'
+      image: premiumSuvImage
     }
   ];
 

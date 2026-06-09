@@ -2,6 +2,8 @@ import React from 'react';
 import { motion } from 'motion/react';
 import { ShieldCheck, CalendarRange, MapPin, BadgeCheck, Compass } from 'lucide-react';
 
+import chauffeurImage from '../assets/images/chauffeur_opening_door_1780451808540.png';
+
 export default function About() {
   const differentials = [
     {
@@ -102,7 +104,7 @@ export default function About() {
             {/* Generated driver opening the door image */}
             <div className="overflow-hidden rounded-2xl border border-white/10 shadow-2xl bg-[#121214] aspect-video sm:aspect-square md:aspect-auto">
               <img
-                src="/src/assets/images/chauffeur_opening_door_1780451808540.png"
+                src={chauffeurImage}
                 alt="Motorista Executivo PVS abrindo a porta"
                 className="w-full h-full object-cover grayscale-15 hover:grayscale-0 transition-all duration-700 hover:scale-105"
                 referrerPolicy="no-referrer"

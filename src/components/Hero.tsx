@@ -2,6 +2,8 @@ import React from 'react';
 import { motion } from 'motion/react';
 import { Shield, Sparkles, MapPin, Clock } from 'lucide-react';
 
+import heroCarImage from '../assets/images/hero_executive_car_1780451793418.png';
+
 interface HeroProps {
   onScrollTo: (sectionId: string) => void;
 }
@@ -25,7 +27,7 @@ export default function Hero({ onScrollTo }: HeroProps) {
           className="w-full h-full"
         >
           <img
-            src="/src/assets/images/hero_executive_car_1780451793418.png"
+            src={heroCarImage}
             alt="PVS Transporte Executivo Mercedes"
             className="w-full h-full object-cover object-center"
             referrerPolicy="no-referrer"
