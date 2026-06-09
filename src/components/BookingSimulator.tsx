@@ -73,7 +73,7 @@ export default function BookingSimulator({ selectedCategory, onSetCategory }: Bo
   };
 
   const generateWhatsAppURL = () => {
-    const phone = '5531998699742';
+    const phone = '5531987581645';
     
     // Friendly localized labels
     const categoryLabels: Record<VehicleCategory, string> = {
@@ -535,7 +535,7 @@ _Enviado através do cotador digital do site oficial._`;
                 className="w-full flex items-center justify-center gap-3 bg-gradient-to-r from-[#E5C158] to-[#C49E37] text-black font-sans font-black text-xs uppercase tracking-widest py-4 rounded-xl shadow-[0_8px_30px_rgba(229,193,88,0.25)] hover:shadow-[0_8px_35px_rgba(229,193,88,0.45)] hover:scale-[1.01] transition-all duration-300"
               >
                 <Send className="w-4 h-4 fill-black" />
-                <span>Enviar p/ WhatsApp (+55 31) 99869-9742</span>
+                <span>Enviar Cotação</span>
               </a>
               <span className="block text-center text-[10px] text-gray-500 font-sans mt-3">
                 Ao clicar, você será redirecionado para o WhatsApp com tudo pronto.

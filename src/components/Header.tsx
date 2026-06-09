@@ -74,7 +74,7 @@ export default function Header({ onScrollTo }: HeaderProps) {
             <Instagram className="w-5 h-5" />
           </a>
           <a
-            href="https://wa.me/5531998699742?text=Ol%C3%A1%21+Gostaria+de+solicitar+um+or%C3%A7amento+para+transporte+executivo."
+            href="https://wa.me/5531987581645?text=Ol%C3%A1%21+Gostaria+de+solicitar+um+or%C3%A7amento+para+transporte+executivo."
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-gradient-to-r from-[#E5C158] to-[#C49E37] text-black font-sans font-bold text-xs uppercase tracking-wider py-2.5 px-5 rounded-full shadow-[0_4px_20px_rgba(229,193,88,0.25)] hover:shadow-[0_4px_25px_rgba(229,193,88,0.4)] transition-all duration-300 hover:scale-[1.03]"
@@ -116,7 +116,7 @@ export default function Header({ onScrollTo }: HeaderProps) {
             </button>
           ))}
           <a
-            href="https://wa.me/5531998699742?text=Ol%C3%A1%21+Gostaria+de+solicitar+um+or%C3%A7amento+para+transporte+executivo."
+            href="https://wa.me/5531987581645?text=Ol%C3%A1%21+Gostaria+de+solicitar+um+or%C3%A7amento+para+transporte+executivo."
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 bg-gradient-to-r from-[#E5C158] to-[#C49E37] text-black font-sans font-bold text-sm uppercase tracking-wider py-3 rounded-xl shadow-lg mt-2"

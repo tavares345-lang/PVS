@@ -117,7 +117,7 @@ export default function Services() {
               {/* Individual Quote Request shortcut */}
               <div className="mt-8 pt-4 border-t border-white/5 flex justify-end">
                 <a
-                  href={`https://wa.me/5531998699742?text=Ol%C3%A1%21+Gostaria+de+um+or%C3%A7amento+espec%C3%ADfico+para+o+servi%C3%A7o+de%3A+${encodeURIComponent(service.title)}`}
+                  href={`https://wa.me/5531987581645?text=Ol%C3%A1%21+Gostaria+de+um+or%C3%A7amento+espec%C3%ADfico+para+o+servi%C3%A7o+de%3A+${encodeURIComponent(service.title)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs uppercase tracking-wider text-white group-hover:text-[#E5C158] font-sans font-black flex items-center gap-1.5 hover:underline"
@@ -145,7 +145,7 @@ export default function Services() {
             </div>
           </div>
           <a
-            href="https://wa.me/5531998699742?text=Ol%C3%A1%21+Gostaria+de+saber+mais+sobre+a+modalidade+de+Faturamento+Mensal+para+minha+Empresa+PJ."
+            href="https://wa.me/5531987581645?text=Ol%C3%A1%21+Gostaria+de+saber+mais+sobre+a+modalidade+de+Faturamento+Mensal+para+minha+Empresa+PJ."
             target="_blank"
             rel="noopener noreferrer"
             className="w-full md:w-auto bg-white/5 border border-white/10 text-white hover:border-[#E5C158] hover:text-[#E5C158] font-sans font-bold text-xs uppercase tracking-widest py-3.5 px-6 rounded-xl transition-all duration-300 text-center flex-shrink-0"

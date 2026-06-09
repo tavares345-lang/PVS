@@ -82,7 +82,7 @@ export default function Hero({ onScrollTo }: HeroProps) {
             className="flex flex-col sm:flex-row gap-4 mt-10"
           >
             <a
-              href="https://wa.me/5531998699742?text=Ol%C3%A1%21+Gostaria+de+solicitar+um+or%C3%A7amento+para+transporte+executivo+premium."
+              href="https://wa.me/5531987581645?text=Ol%C3%A1%21+Gostaria+de+solicitar+um+or%C3%A7amento+para+transporte+executivo+premium."
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2.5 bg-gradient-to-r from-[#E5C158] to-[#C49E37] text-black font-sans font-black text-xs uppercase tracking-widest py-4 px-8 rounded-xl shadow-[0_8px_30px_rgba(229,193,88,0.3)] hover:shadow-[0_8px_40px_rgba(229,193,88,0.5)] hover:scale-[1.02] active:scale-[0.98] transition-all duration-300"

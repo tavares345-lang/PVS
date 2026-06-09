@@ -39,7 +39,7 @@ export default function Footer({ onScrollTo }: FooterProps) {
               <Instagram className="w-5 h-5" />
             </a>
             <a
-              href="https://wa.me/5531998699742?text=Ol%C3%A1%21+Gostaria+de+realizar+um+or%C3%A7amento."
+              href="https://wa.me/5531987581645?text=Ol%C3%A1%21+Gostaria+de+realizar+um+or%C3%A7amento."
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center hover:bg-[#E5C158] hover:text-black hover:border-[#E5C158] text-white transition-all duration-300"
@@ -119,10 +119,10 @@ export default function Footer({ onScrollTo }: FooterProps) {
                   Ligue ou WhatsApp
                 </p>
                 <a
-                  href="tel:+5531998699742"
+                  href="tel:+5531987581645"
                   className="hover:text-[#E5C158] font-bold text-white transition-colors"
                 >
-                  +55 (31) 99869-9742
+                  +55 (31) 98758-1645
                 </a>
               </div>
             </div>
